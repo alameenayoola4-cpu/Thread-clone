@@ -1,4 +1,4 @@
-# 🧵 Threads Clone by [Ayoola.dev](https://ayoola.dev)
+# 🧵 Threads Clone by [Ayoola.dev](https://x.com/ayooladev1?s=21)
 
 A clean, responsive Threads-style social media frontend built with **HTML** and **CSS** .
 This project focuses on UI precision, modern design patterns, and smooth layout responsiveness — inspired by Meta’s Threads app.
