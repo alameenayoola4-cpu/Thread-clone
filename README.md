@@ -6,7 +6,7 @@ This project focuses on UI precision, modern design patterns, and smooth layout 
 ---
 
 ### 🚀 Live Demo
-[![Live Site]https://thread-clone-green.vercel.app
+https://thread-clone-green.vercel.app
 
 ### 💻 View Code
 [![View Code](https://img.shields.io/badge/View%20on%20GitHub-0B132B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alameenayoola4-cpu/thread-clone)
